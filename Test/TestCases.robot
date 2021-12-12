@@ -15,7 +15,6 @@ Create new Login User
      Assert that new user is registered successfully
 
 Check user information
-    [Tags]     Femi
     Navigate To Homepage
     Check user info
     Assert user info is displayed on main menu
